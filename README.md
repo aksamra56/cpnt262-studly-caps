@@ -3,7 +3,7 @@
 Author: Akashdeep Samra
 
 ### GitHub Repo:[https://github.com/aksamra56/cpnt262-studly-caps.git]
-### GH Page: []
+### GH Page:[https://aksamra56.github.io/cpnt262-studly-caps/]
 
 ### Code attributions; 
 Nymag: https://nymag.com/intelligencer/2017/05/what-is-the-mocking-spongebob-capitalized-letters-chicken-meme.html
