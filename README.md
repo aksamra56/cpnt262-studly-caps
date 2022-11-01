@@ -2,7 +2,7 @@
 # CPNT-262: Studly caps (spongebob case)
 Author: Akashdeep Samra
 
-### GitHub Repo:[]
+### GitHub Repo:[https://github.com/aksamra56/cpnt262-studly-caps.git]
 ### GH Page: []
 
 ### Code attributions; 
